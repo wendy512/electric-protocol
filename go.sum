@@ -1,0 +1,4 @@
+github.com/goburrow/serial v0.1.0/go.mod h1:sAiqG0nRVswsm1C97xsttiYCzSLBmUZ/VSlVLZJ8haA=
+github.com/thinkgos/go-iecp5 v1.2.1 h1:p5l8FGNtMpOQ2BMCmUHT+3eSG/Ley6Uv6xFt5j8MNFI=
+github.com/thinkgos/go-iecp5 v1.2.1/go.mod h1:jUgKVFgiyamwD0/eWgx3wbGcVojeiTouvJsLe6CyKmM=
+github.com/thinkgos/gomodbus/v2 v2.2.2/go.mod h1:YynqZtDx2kFRhA+Ajy9qtmWOUIs5BOi3EaX6WQwH/jo=
